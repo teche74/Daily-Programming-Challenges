@@ -8,7 +8,7 @@ I've organized this repository into different categories for easy navigation. He
 
 - `Daily Challenges/`: Contains solutions related to coding ninjas porblem of the day.
 - `Sheets/`: Solutions for prepared dsa sheets.
-- `Self-Practise/`: A catch-all category for problems for both above categories and self practise.
+- `DSA-Scratch/`: Complete data structures from scratch and practising challenges. 
 - `Competitive-Programming`: Practising competeive programming.
 
 ## Usage
