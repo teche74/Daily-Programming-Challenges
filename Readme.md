@@ -6,10 +6,24 @@ Welcome to my "Daily Programming Challenges" repository! This is a personal Git 
 
 I've organized this repository into different categories for easy navigation. Here's an overview:
 
-- `Daily Challenges/`: Contains solutions related to coding ninjas porblem of the day.
-- `Sheets/`: Solutions for prepared dsa sheets.
-- `DSA-Scratch/`: Complete data structures from scratch and practising challenges. 
-- `Competitive-Programming`: Practising competeive programming.
+- 📂 **Daily-Programming-Challenges/**
+  - 🚀 *Competitive_Programming/*
+    - 📜 *problems/*
+  - 🧠 *Must_Know/*
+    - 🔍 Searching_Algos.cpp
+    - 📈 Sorting_Algos.cpp
+    - ...
+  - 📊 *DSA_Scratch/*
+    - 📦 *Arrays/*
+    - 🔗 *Linked_Lists/*
+    - 🌳 *Trees/*
+    - ...
+  - 📝 *Practice_Sheets/*
+    - 📋 *Love_Babbar_Sheet/*
+    - 🗂️ *sheet2/*
+    - ...
+- 📄 **README.md**
+
 
 ## Usage
 
