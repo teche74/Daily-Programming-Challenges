@@ -5,16 +5,20 @@ using namespace std;
 
 
 void Move_zeroes_to_end(vector<int> & nums){
-    int n=nums.size();
-    for(int i=0;i<n-1;i++){
-        if(nums[i]<= 0){
-            int j=i;
-            while(nums[j]<=0 && j<n-1){
-                swap(nums[j],nums[j+1]);
-                j++;
-            }
+    int i=0;
+    
+    for(int j=1; j<n; j++){
+        if(a[i] != 0)
+        {
+            i++;
+        }
+        else if(a[i] == 0 && a[j] != 0)
+        {
+            swap(a[i] , a[j]);
+            i++;
         }
     }
+    return a;
 }
 
 int main(){
