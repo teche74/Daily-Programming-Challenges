@@ -89,4 +89,4 @@
     - If You think of it , then you might get that you have a statement where you had to make some choices and decison which satifies the codition of `Recursion`.
     - However Decision Tree for this Problem might be bigger and complex for larger inputs but for just an intution idea of how to create it, I had figured it for you below for input **"abcd"** . 
 
-<image src = "https://github.com/teche74/Daily-Programming-Challenges/assets/129526047/b6db5f99-26c5-40c6-990a-85837612660f" height =500 width = 1000>
+![image](https://github.com/teche74/Daily-Programming-Challenges/assets/129526047/b6db5f99-26c5-40c6-990a-85837612660f)
