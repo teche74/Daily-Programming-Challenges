@@ -72,3 +72,21 @@
 - Whenever our problem statement revolves around taking `decision or choices taking codition`. Best approach is to use `Recursion`.
 
 ![image](https://github.com/teche74/Daily-Programming-Challenges/assets/129526047/74f1aa7d-b337-4f83-b2ed-b3a8d9a6125a)
+
+
+
+### `Recursive Tree 🌳. What it is and Why we are focusing on it 🎓`
+
+- `Recursive Tree` is used for manual design of recursion problem conditions to make decision taking conditions easier.
+- How Actually to tackle a Problem is  :  `Read Problem Statement` ---> `Create Recursive Tree` ---> `Code it out`.
+
+
+- There are multiple Ways of creating Decisive Tree.
+
+- Using Input/Output Method.
+  - We create tree for each possible decision we can make on the basis of node. Our node has two parts `input`( Current input ) and `output`(Current Output).
+  - Lets think of it using Subset problem (Suppose a string is Given a you have to  print out all the subsets of the given string).
+    - If You think of it , then you might get that you have a statement where you had to make some choices and decison which satifies the codition of `Recursion`.
+    - However Decision Tree for this Problem might be bigger and complex for larger inputs but for just an intution idea of how to create it, I had figured it for you below for input **"abcd"** . 
+
+<image src = "https://github.com/teche74/Daily-Programming-Challenges/assets/129526047/b6db5f99-26c5-40c6-990a-85837612660f" height =500 width = 1000>
