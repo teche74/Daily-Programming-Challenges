@@ -1,0 +1,16 @@
+class Solution {
+public:
+    int check(vector<int>& curr, vector<int>&reach){
+        int diff_x = abs(curr[0] - reach[0]);
+        int diff_y = abs(curr[1] - reach[1]);
+        return max(diff_x, diff_y);
+    }
+    int minTimeToVisitAllPoints(vector<vector<int>>& points) {
+        int sec =0;
+        
+        for(int i=1;i<points.size();i++){
+            sec+=check(points[i-1], points[i]);
+        }
+        return sec;
+    }
+};
